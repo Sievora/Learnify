@@ -91,7 +91,7 @@ border-radius: 10px;
 }
 
 .lst {
-	background-image: url(img/herebackground.png);
+	background-image: url(herebackground.png);
 	background-repeat: no-repeat;
 	background-size: cover;
 	padding: 200px 0px;
